@@ -1,0 +1,88 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Immerse yourself in captivating tales that transport you to different worlds and eras.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+
+    {
+        "id":2,
+        "name":"Drama Book",
+        "title":"Experience the intensity of human emotions and complex relationships in our dramatic narratives.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+
+    {
+        "id":3,
+        "name":"Music Book",
+        "title":"Discover the harmony of words and melodies in books that celebrate the art of music.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+
+    {
+        "id":4,
+        "name":"Sports Book",
+        "title":"Get inspired by stories of triumph, teamwork, and the relentless pursuit of excellence in sports.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+
+    {
+        "id":5,
+        "name":"Comics",
+        "title":"Laugh out loud with our collection of hilarious books that promise endless entertainment and joy.",
+        "price":20,
+        "category":"Entertainment",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+
+    {
+        "id":6,
+        "name":"Lust Book",
+        "title":"Indulge in passionate stories that explore the depths of desire and human connection with more unexplored stuffs.",
+        "price":10,
+        "category":"Lust",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+    {
+        "id":7,
+        "name":"Physco Book",
+        "title":"Dive into the minds of complex characters with psychological thrillers that keep you on the edge.",
+        "price":40,
+        "category":"Physco",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+    {
+        "id":8,
+        "name":"Joke Book",
+        "title":"Tickle your funny bone with our collection of jokes that are sure to bring a smile to your face.",
+        "price":30,
+        "category":"Joke",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+    {
+        "id":9,
+        "name":"Cars Book",
+        "title":"Rev up your interest with thrilling books about the fascinating world of automobiles.",
+        "price":20,
+        "category":"Cars",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    },
+    {
+        "id":10,
+        "name":"Bikes Book",
+        "title":"Gear up for adventures with books that explore the exciting culture and mechanics of biking.",
+        "price":80,
+        "category":"Bikes",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1720977206~exp=1720980806~hmac=fdabfb7de6124dd889ce83924f9e993271f85ca174be5b001e380004c44e5342&w=740"
+    }
+
+]
